@@ -1,0 +1,333 @@
+{
+  "heading": "Assessment",
+  "topics": [
+    
+ 
+  
+  {
+    "heading": "Claims and Their Evidence",
+    "questions": [
+      {
+        "questionNo": 1,
+        "story": "<div style=\"text-align:center\"><b>On Fresh Air in the Sickroom<br>Adapted from Florence Nightingale’s \"Notes on Nursing\"</b></div><br><b>Passage 1:</b><br>There is no requirement in the care of the sick more important than the supply of fresh air. To keep the air a patient breathes as pure as the outside air, without chilling him, is the very first canon of nursing. Every nurse who neglects this single rule will fail her patient in every other respect as well. It is not one duty among many. It is the foundation upon which every other act of care must rest, and without it no recovery can honestly be expected.<br><br><b>Passage 2:</b><br>The evidence on this point is considerable. Returns collected from twelve London hospitals between 1854 and 1857 show that wards with continuous window ventilation recorded a mortality rate of nine per cent, compared with twenty-two per cent in wards where windows remained closed. The Army Sanitary Commission reported a similar pattern in 1858, finding that barracks with improved ventilation saw fever cases fall by more than half within a single year. These are not impressions gathered at the bedside. They are counted results, taken across many hundreds of patients.<br><br><b>Passage 3:</b><br>Many experienced nurses will also tell you that they can sense at once, on entering a room, whether the air within it is wholesome, and this feeling is widely shared throughout the profession. Families, too, frequently observe that a patient appears easier after a window has been opened. It may be added that St Thomas’s Hospital was first established in the twelfth century and has been rebuilt on three separate occasions since. Its present buildings are much admired for their handsome brickwork and the fine proportions of their long corridors.<br><br><b>Passage 4:</b><br>Against all this stands the ruinous, suffocating superstition that night air is dangerous. What appalling nonsense this is, and what untold harm it has done. Timid attendants seal their windows at dusk and leave the sick to breathe the same foul, exhausted air until morning, poisoning by slow degrees the very patients they imagine themselves to be protecting. A nurse who does this is not merely failing in her duty; she is actively working against the recovery of the person in her charge. No good whatever has ever come of a closed window.<br><br><b>Passage 5:</b><br>Naturally, every intelligent person now accepts that fresh air is essential to the sick. The only question remaining is how quickly hospitals and households will act upon what they already plainly know. Let the windows be opened, and let every objection be set aside without further discussion. In a single generation the health of the nation might be transformed entirely. Those who still hesitate at so simple a measure have evidently not considered the matter with the seriousness it deserves, for the case is, and has always been, perfectly plain.",
+        "question": "Which of the following best states the central claim of the passage?",
+        "options": [
+          {
+            "text": "St Thomas’s Hospital was first established in the twelfth century."
+          },
+          {
+            "text": "Fresh air is the most important requirement in the care of the sick, and the foundation of all other nursing care."
+          },
+          {
+            "text": "The Army Sanitary Commission reported its findings in 1858."
+          },
+          {
+            "text": "Some attendants close windows at dusk."
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 2,
+        "story": "<div style=\"text-align:center\"><b>On Fresh Air in the Sickroom<br>Adapted from Florence Nightingale’s \"Notes on Nursing\"</b></div><br><b>Passage 1:</b><br>There is no requirement in the care of the sick more important than the supply of fresh air. To keep the air a patient breathes as pure as the outside air, without chilling him, is the very first canon of nursing. Every nurse who neglects this single rule will fail her patient in every other respect as well. It is not one duty among many. It is the foundation upon which every other act of care must rest, and without it no recovery can honestly be expected.<br><br><b>Passage 2:</b><br>The evidence on this point is considerable. Returns collected from twelve London hospitals between 1854 and 1857 show that wards with continuous window ventilation recorded a mortality rate of nine per cent, compared with twenty-two per cent in wards where windows remained closed. The Army Sanitary Commission reported a similar pattern in 1858, finding that barracks with improved ventilation saw fever cases fall by more than half within a single year. These are not impressions gathered at the bedside. They are counted results, taken across many hundreds of patients.<br><br><b>Passage 3:</b><br>Many experienced nurses will also tell you that they can sense at once, on entering a room, whether the air within it is wholesome, and this feeling is widely shared throughout the profession. Families, too, frequently observe that a patient appears easier after a window has been opened. It may be added that St Thomas’s Hospital was first established in the twelfth century and has been rebuilt on three separate occasions since. Its present buildings are much admired for their handsome brickwork and the fine proportions of their long corridors.<br><br><b>Passage 4:</b><br>Against all this stands the ruinous, suffocating superstition that night air is dangerous. What appalling nonsense this is, and what untold harm it has done. Timid attendants seal their windows at dusk and leave the sick to breathe the same foul, exhausted air until morning, poisoning by slow degrees the very patients they imagine themselves to be protecting. A nurse who does this is not merely failing in her duty; she is actively working against the recovery of the person in her charge. No good whatever has ever come of a closed window.<br><br><b>Passage 5:</b><br>Naturally, every intelligent person now accepts that fresh air is essential to the sick. The only question remaining is how quickly hospitals and households will act upon what they already plainly know. Let the windows be opened, and let every objection be set aside without further discussion. In a single generation the health of the nation might be transformed entirely. Those who still hesitate at so simple a measure have evidently not considered the matter with the seriousness it deserves, for the case is, and has always been, perfectly plain.",
+        "question": "Which of the following is the strongest evidence the writer provides for the central claim?",
+        "options": [
+          {
+            "text": "Returns from twelve London hospitals between 1854 and 1857 recorded nine per cent mortality in ventilated wards against twenty-two per cent in unventilated ones."
+          },
+          {
+            "text": "Experienced nurses say they can sense at once whether the air in a room is wholesome."
+          },
+          {
+            "text": "Families often observe that a patient appears easier after a window has been opened."
+          },
+          {
+            "text": "St Thomas’s Hospital has been rebuilt on three separate occasions."
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 3,
+        "story": "<div style=\"text-align:center\"><b>On Fresh Air in the Sickroom<br>Adapted from Florence Nightingale’s \"Notes on Nursing\"</b></div><br><b>Passage 1:</b><br>There is no requirement in the care of the sick more important than the supply of fresh air. To keep the air a patient breathes as pure as the outside air, without chilling him, is the very first canon of nursing. Every nurse who neglects this single rule will fail her patient in every other respect as well. It is not one duty among many. It is the foundation upon which every other act of care must rest, and without it no recovery can honestly be expected.<br><br><b>Passage 2:</b><br>The evidence on this point is considerable. Returns collected from twelve London hospitals between 1854 and 1857 show that wards with continuous window ventilation recorded a mortality rate of nine per cent, compared with twenty-two per cent in wards where windows remained closed. The Army Sanitary Commission reported a similar pattern in 1858, finding that barracks with improved ventilation saw fever cases fall by more than half within a single year. These are not impressions gathered at the bedside. They are counted results, taken across many hundreds of patients.<br><br><b>Passage 3:</b><br>Many experienced nurses will also tell you that they can sense at once, on entering a room, whether the air within it is wholesome, and this feeling is widely shared throughout the profession. Families, too, frequently observe that a patient appears easier after a window has been opened. It may be added that St Thomas’s Hospital was first established in the twelfth century and has been rebuilt on three separate occasions since. Its present buildings are much admired for their handsome brickwork and the fine proportions of their long corridors.<br><br><b>Passage 4:</b><br>Against all this stands the ruinous, suffocating superstition that night air is dangerous. What appalling nonsense this is, and what untold harm it has done. Timid attendants seal their windows at dusk and leave the sick to breathe the same foul, exhausted air until morning, poisoning by slow degrees the very patients they imagine themselves to be protecting. A nurse who does this is not merely failing in her duty; she is actively working against the recovery of the person in her charge. No good whatever has ever come of a closed window.<br><br><b>Passage 5:</b><br>Naturally, every intelligent person now accepts that fresh air is essential to the sick. The only question remaining is how quickly hospitals and households will act upon what they already plainly know. Let the windows be opened, and let every objection be set aside without further discussion. In a single generation the health of the nation might be transformed entirely. Those who still hesitate at so simple a measure have evidently not considered the matter with the seriousness it deserves, for the case is, and has always been, perfectly plain.",
+        "question": "Which of the following is the weakest evidence in the passage?",
+        "options": [
+          {
+            "text": "The Army Sanitary Commission found fever cases fell by more than half in better-ventilated barracks."
+          },
+          {
+            "text": "Ventilated wards recorded a mortality rate of nine per cent."
+          },
+          {
+            "text": "Experienced nurses say they can sense whether air is wholesome, and families observe patients appearing easier."
+          },
+          {
+            "text": "Unventilated wards recorded a mortality rate of twenty-two per cent."
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 4,
+        "story": "<div style=\"text-align:center\"><b>On Fresh Air in the Sickroom<br>Adapted from Florence Nightingale’s \"Notes on Nursing\"</b></div><br><b>Passage 1:</b><br>There is no requirement in the care of the sick more important than the supply of fresh air. To keep the air a patient breathes as pure as the outside air, without chilling him, is the very first canon of nursing. Every nurse who neglects this single rule will fail her patient in every other respect as well. It is not one duty among many. It is the foundation upon which every other act of care must rest, and without it no recovery can honestly be expected.<br><br><b>Passage 2:</b><br>The evidence on this point is considerable. Returns collected from twelve London hospitals between 1854 and 1857 show that wards with continuous window ventilation recorded a mortality rate of nine per cent, compared with twenty-two per cent in wards where windows remained closed. The Army Sanitary Commission reported a similar pattern in 1858, finding that barracks with improved ventilation saw fever cases fall by more than half within a single year. These are not impressions gathered at the bedside. They are counted results, taken across many hundreds of patients.<br><br><b>Passage 3:</b><br>Many experienced nurses will also tell you that they can sense at once, on entering a room, whether the air within it is wholesome, and this feeling is widely shared throughout the profession. Families, too, frequently observe that a patient appears easier after a window has been opened. It may be added that St Thomas’s Hospital was first established in the twelfth century and has been rebuilt on three separate occasions since. Its present buildings are much admired for their handsome brickwork and the fine proportions of their long corridors.<br><br><b>Passage 4:</b><br>Against all this stands the ruinous, suffocating superstition that night air is dangerous. What appalling nonsense this is, and what untold harm it has done. Timid attendants seal their windows at dusk and leave the sick to breathe the same foul, exhausted air until morning, poisoning by slow degrees the very patients they imagine themselves to be protecting. A nurse who does this is not merely failing in her duty; she is actively working against the recovery of the person in her charge. No good whatever has ever come of a closed window.<br><br><b>Passage 5:</b><br>Naturally, every intelligent person now accepts that fresh air is essential to the sick. The only question remaining is how quickly hospitals and households will act upon what they already plainly know. Let the windows be opened, and let every objection be set aside without further discussion. In a single generation the health of the nation might be transformed entirely. Those who still hesitate at so simple a measure have evidently not considered the matter with the seriousness it deserves, for the case is, and has always been, perfectly plain.",
+        "question": "Which part of the passage is off-topic evidence?",
+        "options": [
+          {
+            "text": "The mortality figures from the twelve London hospitals"
+          },
+          {
+            "text": "The Army Sanitary Commission findings on fever cases"
+          },
+          {
+            "text": "The statement that fresh air is the foundation of all nursing care"
+          },
+          {
+            "text": "The account of St Thomas’s Hospital’s founding, rebuilding, brickwork, and corridors"
+          }
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "heading": "Identifying Bias In Text",
+    "questions": [
+      {
+        "questionNo": 5,
+        "story": "<div style=\"text-align:center\"><b>On Fresh Air in the Sickroom<br>Adapted from Florence Nightingale’s \"Notes on Nursing\"</b></div><br><b>Passage 1:</b><br>There is no requirement in the care of the sick more important than the supply of fresh air. To keep the air a patient breathes as pure as the outside air, without chilling him, is the very first canon of nursing. Every nurse who neglects this single rule will fail her patient in every other respect as well. It is not one duty among many. It is the foundation upon which every other act of care must rest, and without it no recovery can honestly be expected.<br><br><b>Passage 2:</b><br>The evidence on this point is considerable. Returns collected from twelve London hospitals between 1854 and 1857 show that wards with continuous window ventilation recorded a mortality rate of nine per cent, compared with twenty-two per cent in wards where windows remained closed. The Army Sanitary Commission reported a similar pattern in 1858, finding that barracks with improved ventilation saw fever cases fall by more than half within a single year. These are not impressions gathered at the bedside. They are counted results, taken across many hundreds of patients.<br><br><b>Passage 3:</b><br>Many experienced nurses will also tell you that they can sense at once, on entering a room, whether the air within it is wholesome, and this feeling is widely shared throughout the profession. Families, too, frequently observe that a patient appears easier after a window has been opened. It may be added that St Thomas’s Hospital was first established in the twelfth century and has been rebuilt on three separate occasions since. Its present buildings are much admired for their handsome brickwork and the fine proportions of their long corridors.<br><br><b>Passage 4:</b><br>Against all this stands the ruinous, suffocating superstition that night air is dangerous. What appalling nonsense this is, and what untold harm it has done. Timid attendants seal their windows at dusk and leave the sick to breathe the same foul, exhausted air until morning, poisoning by slow degrees the very patients they imagine themselves to be protecting. A nurse who does this is not merely failing in her duty; she is actively working against the recovery of the person in her charge. No good whatever has ever come of a closed window.<br><br><b>Passage 5:</b><br>Naturally, every intelligent person now accepts that fresh air is essential to the sick. The only question remaining is how quickly hospitals and households will act upon what they already plainly know. Let the windows be opened, and let every objection be set aside without further discussion. In a single generation the health of the nation might be transformed entirely. Those who still hesitate at so simple a measure have evidently not considered the matter with the seriousness it deserves, for the case is, and has always been, perfectly plain.",
+        "question": "In the phrase \"poisoning by slow degrees the very patients they imagine themselves to be protecting,\" which word most neutrally replaces \"poisoning\" while preserving the meaning but making the phrase less loaded?",
+        "options": [
+          {
+            "text": "harming"
+          },
+          {
+            "text": "murdering"
+          },
+          {
+            "text": "destroying"
+          },
+          {
+            "text": "corrupting"
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 6,
+        "story": "<div style=\"text-align:center\"><b>On Fresh Air in the Sickroom<br>Adapted from Florence Nightingale’s \"Notes on Nursing\"</b></div><br><b>Passage 1:</b><br>There is no requirement in the care of the sick more important than the supply of fresh air. To keep the air a patient breathes as pure as the outside air, without chilling him, is the very first canon of nursing. Every nurse who neglects this single rule will fail her patient in every other respect as well. It is not one duty among many. It is the foundation upon which every other act of care must rest, and without it no recovery can honestly be expected.<br><br><b>Passage 2:</b><br>The evidence on this point is considerable. Returns collected from twelve London hospitals between 1854 and 1857 show that wards with continuous window ventilation recorded a mortality rate of nine per cent, compared with twenty-two per cent in wards where windows remained closed. The Army Sanitary Commission reported a similar pattern in 1858, finding that barracks with improved ventilation saw fever cases fall by more than half within a single year. These are not impressions gathered at the bedside. They are counted results, taken across many hundreds of patients.<br><br><b>Passage 3:</b><br>Many experienced nurses will also tell you that they can sense at once, on entering a room, whether the air within it is wholesome, and this feeling is widely shared throughout the profession. Families, too, frequently observe that a patient appears easier after a window has been opened. It may be added that St Thomas’s Hospital was first established in the twelfth century and has been rebuilt on three separate occasions since. Its present buildings are much admired for their handsome brickwork and the fine proportions of their long corridors.<br><br><b>Passage 4:</b><br>Against all this stands the ruinous, suffocating superstition that night air is dangerous. What appalling nonsense this is, and what untold harm it has done. Timid attendants seal their windows at dusk and leave the sick to breathe the same foul, exhausted air until morning, poisoning by slow degrees the very patients they imagine themselves to be protecting. A nurse who does this is not merely failing in her duty; she is actively working against the recovery of the person in her charge. No good whatever has ever come of a closed window.<br><br><b>Passage 5:</b><br>Naturally, every intelligent person now accepts that fresh air is essential to the sick. The only question remaining is how quickly hospitals and households will act upon what they already plainly know. Let the windows be opened, and let every objection be set aside without further discussion. In a single generation the health of the nation might be transformed entirely. Those who still hesitate at so simple a measure have evidently not considered the matter with the seriousness it deserves, for the case is, and has always been, perfectly plain.",
+        "question": "Which of the following sentences from the passage contains a generalisation?",
+        "options": [
+          {
+            "text": "\"The Army Sanitary Commission reported a similar pattern in 1858.\""
+          },
+          {
+            "text": "\"Every nurse who neglects this single rule will fail her patient in every other respect as well.\""
+          },
+          {
+            "text": "\"St Thomas’s Hospital was first established in the twelfth century.\""
+          },
+          {
+            "text": "\"Fever cases fell by more than half within a single year.\""
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 7,
+        "story": "<div style=\"text-align:center\"><b>On Fresh Air in the Sickroom<br>Adapted from Florence Nightingale’s \"Notes on Nursing\"</b></div><br><b>Passage 1:</b><br>There is no requirement in the care of the sick more important than the supply of fresh air. To keep the air a patient breathes as pure as the outside air, without chilling him, is the very first canon of nursing. Every nurse who neglects this single rule will fail her patient in every other respect as well. It is not one duty among many. It is the foundation upon which every other act of care must rest, and without it no recovery can honestly be expected.<br><br><b>Passage 2:</b><br>The evidence on this point is considerable. Returns collected from twelve London hospitals between 1854 and 1857 show that wards with continuous window ventilation recorded a mortality rate of nine per cent, compared with twenty-two per cent in wards where windows remained closed. The Army Sanitary Commission reported a similar pattern in 1858, finding that barracks with improved ventilation saw fever cases fall by more than half within a single year. These are not impressions gathered at the bedside. They are counted results, taken across many hundreds of patients.<br><br><b>Passage 3:</b><br>Many experienced nurses will also tell you that they can sense at once, on entering a room, whether the air within it is wholesome, and this feeling is widely shared throughout the profession. Families, too, frequently observe that a patient appears easier after a window has been opened. It may be added that St Thomas’s Hospital was first established in the twelfth century and has been rebuilt on three separate occasions since. Its present buildings are much admired for their handsome brickwork and the fine proportions of their long corridors.<br><br><b>Passage 4:</b><br>Against all this stands the ruinous, suffocating superstition that night air is dangerous. What appalling nonsense this is, and what untold harm it has done. Timid attendants seal their windows at dusk and leave the sick to breathe the same foul, exhausted air until morning, poisoning by slow degrees the very patients they imagine themselves to be protecting. A nurse who does this is not merely failing in her duty; she is actively working against the recovery of the person in her charge. No good whatever has ever come of a closed window.<br><br><b>Passage 5:</b><br>Naturally, every intelligent person now accepts that fresh air is essential to the sick. The only question remaining is how quickly hospitals and households will act upon what they already plainly know. Let the windows be opened, and let every objection be set aside without further discussion. In a single generation the health of the nation might be transformed entirely. Those who still hesitate at so simple a measure have evidently not considered the matter with the seriousness it deserves, for the case is, and has always been, perfectly plain.",
+        "question": "Which sentence relies on an assumption, treating a debatable position as if it were already settled?",
+        "options": [
+          {
+            "text": "\"It is not one duty among many.\""
+          },
+          {
+            "text": "\"Timid attendants seal their windows at dusk.\""
+          },
+          {
+            "text": "\"Naturally, every intelligent person now accepts that fresh air is essential to the sick.\""
+          },
+          {
+            "text": "\"Fever cases fell by more than half within a single year.\""
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 8,
+        "story": "<div style=\"text-align:center\"><b>On Fresh Air in the Sickroom<br>Adapted from Florence Nightingale’s \"Notes on Nursing\"</b></div><br><b>Passage 1:</b><br>There is no requirement in the care of the sick more important than the supply of fresh air. To keep the air a patient breathes as pure as the outside air, without chilling him, is the very first canon of nursing. Every nurse who neglects this single rule will fail her patient in every other respect as well. It is not one duty among many. It is the foundation upon which every other act of care must rest, and without it no recovery can honestly be expected.<br><br><b>Passage 2:</b><br>The evidence on this point is considerable. Returns collected from twelve London hospitals between 1854 and 1857 show that wards with continuous window ventilation recorded a mortality rate of nine per cent, compared with twenty-two per cent in wards where windows remained closed. The Army Sanitary Commission reported a similar pattern in 1858, finding that barracks with improved ventilation saw fever cases fall by more than half within a single year. These are not impressions gathered at the bedside. They are counted results, taken across many hundreds of patients.<br><br><b>Passage 3:</b><br>Many experienced nurses will also tell you that they can sense at once, on entering a room, whether the air within it is wholesome, and this feeling is widely shared throughout the profession. Families, too, frequently observe that a patient appears easier after a window has been opened. It may be added that St Thomas’s Hospital was first established in the twelfth century and has been rebuilt on three separate occasions since. Its present buildings are much admired for their handsome brickwork and the fine proportions of their long corridors.<br><br><b>Passage 4:</b><br>Against all this stands the ruinous, suffocating superstition that night air is dangerous. What appalling nonsense this is, and what untold harm it has done. Timid attendants seal their windows at dusk and leave the sick to breathe the same foul, exhausted air until morning, poisoning by slow degrees the very patients they imagine themselves to be protecting. A nurse who does this is not merely failing in her duty; she is actively working against the recovery of the person in her charge. No good whatever has ever come of a closed window.<br><br><b>Passage 5:</b><br>Naturally, every intelligent person now accepts that fresh air is essential to the sick. The only question remaining is how quickly hospitals and households will act upon what they already plainly know. Let the windows be opened, and let every objection be set aside without further discussion. In a single generation the health of the nation might be transformed entirely. Those who still hesitate at so simple a measure have evidently not considered the matter with the seriousness it deserves, for the case is, and has always been, perfectly plain.",
+        "question": "Which of the following pieces of information has the writer most significantly excluded?",
+        "options": [
+          {
+            "text": "The names of the twelve London hospitals"
+          },
+          {
+            "text": "Any circumstance in which a closed window might reasonably be justified, such as extreme cold or a patient already suffering from chill"
+          },
+          {
+            "text": "The exact location of St Thomas’s Hospital"
+          },
+          {
+            "text": "The number of beds in a typical Victorian ward"
+          }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "heading": "Poetic Devices",
+    "questions": [
+      {
+        "questionNo": 9,
+        "story": "<div style=\"text-align:center\"><b>Ozymandias<br>By Percy Bysshe Shelley</b></div><br>I met a traveller from an antique land,<br>Who said—“Two vast and trunkless legs of stone<br>Stand in the desert. . . . Near them, on the sand,<br>Half sunk a shattered visage lies, whose frown,<br>And wrinkled lip, and sneer of cold command,<br>Tell that its sculptor well those passions read<br>Which yet survive, stamped on these lifeless things,<br>The hand that mocked them, and the heart that fed;<br>And on the pedestal, these words appear:<br>My name is Ozymandias, King of Kings;<br>Look on my Works, ye Mighty, and despair!<br>Nothing beside remains. Round the decay<br>Of that colossal Wreck, boundless and bare<br>The lone and level sands stretch far away.”",
+        "question": "Which of the following lines uses alliteration?",
+        "options": [
+          {
+            "text": "\"I met a traveller from an antique land\""
+          },
+          {
+            "text": "\"And on the pedestal, these words appear\""
+          },
+          {
+            "text": "\"The lone and level sands stretch far away\""
+          },
+          {
+            "text": "\"Nothing beside remains\""
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 10,
+        "story": "<div style=\"text-align:center\"><b>Ozymandias<br>By Percy Bysshe Shelley</b></div><br>I met a traveller from an antique land,<br>Who said—“Two vast and trunkless legs of stone<br>Stand in the desert. . . . Near them, on the sand,<br>Half sunk a shattered visage lies, whose frown,<br>And wrinkled lip, and sneer of cold command,<br>Tell that its sculptor well those passions read<br>Which yet survive, stamped on these lifeless things,<br>The hand that mocked them, and the heart that fed;<br>And on the pedestal, these words appear:<br>My name is Ozymandias, King of Kings;<br>Look on my Works, ye Mighty, and despair!<br>Nothing beside remains. Round the decay<br>Of that colossal Wreck, boundless and bare<br>The lone and level sands stretch far away.”",
+        "question": "Pick a clear example of caesura that forces the reader to pause in the middle of a line.",
+        "options": [
+          {
+            "text": "\"Stand in the desert. . . . Near them, on the sand,\""
+          },
+          {
+            "text": "\"I met a traveller from an antique land\""
+          },
+          {
+            "text": "\"And wrinkled lip, and sneer of cold command\""
+          },
+          {
+            "text": "\"Which yet survive, stamped on these lifeless things\""
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 11,
+        "story": "<div style=\"text-align:center\"><b>Ozymandias<br>By Percy Bysshe Shelley</b></div><br>I met a traveller from an antique land,<br>Who said—“Two vast and trunkless legs of stone<br>Stand in the desert. . . . Near them, on the sand,<br>Half sunk a shattered visage lies, whose frown,<br>And wrinkled lip, and sneer of cold command,<br>Tell that its sculptor well those passions read<br>Which yet survive, stamped on these lifeless things,<br>The hand that mocked them, and the heart that fed;<br>And on the pedestal, these words appear:<br>My name is Ozymandias, King of Kings;<br>Look on my Works, ye Mighty, and despair!<br>Nothing beside remains. Round the decay<br>Of that colossal Wreck, boundless and bare<br>The lone and level sands stretch far away.”",
+        "question": "Which of the following pairs of lines is the clearest example of enjambment?",
+        "options": [
+          {
+            "text": "\"And on the pedestal, these words appear: / My name is Ozymandias, King of Kings;\""
+          },
+          {
+            "text": "\"Two vast and trunkless legs of stone / Stand in the desert.\""
+          },
+          {
+            "text": "\"Look on my Works, ye Mighty, and despair!\""
+          },
+          {
+            "text": "\"Nothing beside remains.\""
+          }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "heading": "Poetry Analysis",
+    "questions": [
+      {
+        "questionNo": 12,
+        "story": "<div style=\"text-align:center\"><b>Ozymandias<br>By Percy Bysshe Shelley</b></div><br>I met a traveller from an antique land,<br>Who said—“Two vast and trunkless legs of stone<br>Stand in the desert. . . . Near them, on the sand,<br>Half sunk a shattered visage lies, whose frown,<br>And wrinkled lip, and sneer of cold command,<br>Tell that its sculptor well those passions read<br>Which yet survive, stamped on these lifeless things,<br>The hand that mocked them, and the heart that fed;<br>And on the pedestal, these words appear:<br>My name is Ozymandias, King of Kings;<br>Look on my Works, ye Mighty, and despair!<br>Nothing beside remains. Round the decay<br>Of that colossal Wreck, boundless and bare<br>The lone and level sands stretch far away.”",
+        "question": "What is the subject of the poem?",
+        "options": [
+          {
+            "text": "The ruined statue of Ozymandias and what remains of his power"
+          },
+          {
+            "text": "The traveller who tells the story"
+          },
+          {
+            "text": "The sculptor who carved the statue"
+          },
+          {
+            "text": "The desert sands surrounding the ruin"
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 13,
+        "story": "<div style=\"text-align:center\"><b>Ozymandias<br>By Percy Bysshe Shelley</b></div><br>I met a traveller from an antique land,<br>Who said—“Two vast and trunkless legs of stone<br>Stand in the desert. . . . Near them, on the sand,<br>Half sunk a shattered visage lies, whose frown,<br>And wrinkled lip, and sneer of cold command,<br>Tell that its sculptor well those passions read<br>Which yet survive, stamped on these lifeless things,<br>The hand that mocked them, and the heart that fed;<br>And on the pedestal, these words appear:<br>My name is Ozymandias, King of Kings;<br>Look on my Works, ye Mighty, and despair!<br>Nothing beside remains. Round the decay<br>Of that colossal Wreck, boundless and bare<br>The lone and level sands stretch far away.”",
+        "question": "What is the mood of the poem we read?",
+        "options": [
+          {
+            "text": "Triumphant and celebratory"
+          },
+          {
+            "text": "Warm and nostalgic"
+          },
+          {
+            "text": "Desolate and ironic, weighted with the emptiness left behind"
+          },
+          {
+            "text": "Playful and light-hearted"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 14,
+        "story": "<div style=\"text-align:center\"><b>Ozymandias<br>By Percy Bysshe Shelley</b></div><br>I met a traveller from an antique land,<br>Who said—“Two vast and trunkless legs of stone<br>Stand in the desert. . . . Near them, on the sand,<br>Half sunk a shattered visage lies, whose frown,<br>And wrinkled lip, and sneer of cold command,<br>Tell that its sculptor well those passions read<br>Which yet survive, stamped on these lifeless things,<br>The hand that mocked them, and the heart that fed;<br>And on the pedestal, these words appear:<br>My name is Ozymandias, King of Kings;<br>Look on my Works, ye Mighty, and despair!<br>Nothing beside remains. Round the decay<br>Of that colossal Wreck, boundless and bare<br>The lone and level sands stretch far away.”",
+        "question": "What does the ruined statue most likely symbolise?",
+        "options": [
+          {
+            "text": "The remarkable skill of ancient sculptors"
+          },
+          {
+            "text": "The wealth of the kingdom Ozymandias ruled"
+          },
+          {
+            "text": "A practical warning about the dangers of travelling in deserts"
+          },
+          {
+            "text": "The impermanence of human power, however great it once appeared"
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 15,
+        "story": "<div style=\"text-align:center\"><b>Ozymandias<br>By Percy Bysshe Shelley</b></div><br>I met a traveller from an antique land,<br>Who said—“Two vast and trunkless legs of stone<br>Stand in the desert. . . . Near them, on the sand,<br>Half sunk a shattered visage lies, whose frown,<br>And wrinkled lip, and sneer of cold command,<br>Tell that its sculptor well those passions read<br>Which yet survive, stamped on these lifeless things,<br>The hand that mocked them, and the heart that fed;<br>And on the pedestal, these words appear:<br>My name is Ozymandias, King of Kings;<br>Look on my Works, ye Mighty, and despair!<br>Nothing beside remains. Round the decay<br>Of that colossal Wreck, boundless and bare<br>The lone and level sands stretch far away.”",
+        "question": "Consider these two observations from the poem:<br><i>• &nbsp;&nbsp;&nbsp;Observation 1: The inscription commands the mighty to look upon Ozymandias’s works and despair at their greatness.<br>•&nbsp;&nbsp;&nbsp;Observation 2: Nothing of those works remains except a shattered statue surrounded by empty sand.<br>Which of the following best states the theme built from these observations?",
+        "options": [
+          {
+            "text": "Kings should not build statues of themselves"
+          },
+          {
+            "text": "Deserts will eventually destroy anything left standing in them"
+          },
+          {
+            "text": "All human power and pride are temporary, and time erases even the greatest achievements"
+          },
+          {
+            "text": "Travellers should be believed when they describe distant lands"
+          }
+        ],
+        "answer": 2
+      }
+    ]
+  
+  }
+
+
+                 
+      
+  ]
+}
